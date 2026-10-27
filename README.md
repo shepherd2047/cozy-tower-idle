@@ -8,7 +8,11 @@ A portrait idle game for phones and TikTok Mini Games, built with Cocos Creator 
 | --- | --- | --- | --- | --- |
 | ![Title screen](docs/screenshots/01-title.png) | ![Tower 2](docs/screenshots/02-early.png) | ![Tower 5](docs/screenshots/03-mid.png) | ![Tower 8](docs/screenshots/04-late.png) | ![Dev panel](docs/screenshots/05-dev-panel.png) |
 
-Gameplay is modelled on the Steam game *Tower Wizard*. The art, music, sound effects and text in this repository are original. The original game's assets are not included.
+## Credits
+
+This is an unofficial fan rebuild of **[Tower Wizard](https://store.steampowered.com/app/3372980/Tower_Wizard/)** by **[Barribob](https://barribob.itch.io/tower-wizard)**. The game design, progression and systems are Barribob's work; this project only re-implements them in Cocos Creator as a learning exercise for portrait phone play. It is not affiliated with or endorsed by Barribob. If you enjoy it, please buy and play the original on Steam.
+
+The art, music, sound effects and text in this repository were made for this project. None of the original game's assets are included. The pixel font is [Ark Pixel](https://github.com/TakWolf/ark-pixel-font) (SIL Open Font License).
 
 ## What is in it
 

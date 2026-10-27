@@ -1,0 +1,31 @@
+# Cocos Creator generated
+library/
+temp/
+local/
+build/
+profiles/
+node_modules/
+
+# art from the original game: internal placeholder only, never published
+assets/resources/art_orig/
+assets/resources/art_orig.meta
+
+# internal notes that map the original game's files
+ART_TODO.md
+CONTENT_MAP.md
+
+# generated audio (rebuild with audio-src/gen-music.js and gen-sfx.js)
+audio-src/build/
+audio-src/preview/
+
+# local build loop and test runtime state
+BUILD_STATUS.json
+tools/snapshots/
+tools/live/
+tools/build-logs/
+tools/warm-profile/
+tools/test-slots/
+tools/want-tiktok
+tools/TESTS_PAUSED
+tools/regress-last.json
+*.log

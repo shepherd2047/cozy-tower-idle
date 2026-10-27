@@ -1,0 +1,63 @@
+{
+  "walls": [
+    {
+      "name": "Cloud Wall",
+      "hp": 25000
+    },
+    {
+      "name": "Solar Wall",
+      "hp": 77000
+    },
+    {
+      "name": "Cosmic Wall",
+      "hp": 200000
+    }
+  ],
+  "boss": {
+    "name": "The Warden",
+    "phases": [
+      110000,
+      120000,
+      120000
+    ]
+  },
+  "boltDamage": 30,
+  "fireRate": 1,
+  "swipeDamage": 10,
+  "fervorK": 4,
+  "fervorExp": 2,
+  "upgrades": {
+    "power": {
+      "name": "Bolt Power",
+      "cost0": 4000,
+      "growth": 1.15,
+      "effect": 0.06
+    },
+    "rate": {
+      "name": "Rapid Fire",
+      "cost0": 6000,
+      "growth": 1.18,
+      "effect": 0.06
+    }
+  },
+  "towers": [
+    {
+      "level": 5,
+      "after": 1,
+      "cost": {
+        "magic": 820000
+      },
+      "damageMult": 2
+    },
+    {
+      "level": 6,
+      "after": 2,
+      "cost": {
+        "magic": 1300000
+      },
+      "damageMult": 2
+    }
+  ],
+  "transition": 3,
+  "buildTime": 4.7
+}

@@ -1,0 +1,11 @@
+{
+  "platform": "bytedance-mini-game",
+  "outputName": "bytedance-mini-game",
+  "debug": false,
+  "md5Cache": false,
+  "startScene": "c2f3a4b5-1111-4222-8333-444455556666",
+  "scenes": [{ "url": "db://assets/scenes/main.scene", "uuid": "c2f3a4b5-1111-4222-8333-444455556666" }],
+  "packages": {
+    "bytedance-mini-game": { "orientation": "portrait", "appid": "testappid" }
+  }
+}
